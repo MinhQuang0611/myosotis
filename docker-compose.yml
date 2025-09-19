@@ -6,6 +6,7 @@ x-common: &common
     - .env
 
 services:
+  # PostgreSQL Database
   db:
     image: postgres:16
     <<: *common
