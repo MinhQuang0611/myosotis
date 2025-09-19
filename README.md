@@ -370,5 +370,11 @@ This software and associated documentation files (the "Software") are proprietar
 - **Commercial Use**: Contact licensing@seadev.com for commercial licensing
 
 ---
+Contact Information
+Myosotis Team
+
+📧 Email: ncminhhieu127@gmail.com
+🌐 Website: https://seadev-1.ript.vn/
+📍 Address: Ha Noi City, Vietnam
 
 *This README was last updated on September 16, 2025*
